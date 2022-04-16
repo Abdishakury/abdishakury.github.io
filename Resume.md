@@ -10,6 +10,7 @@
  - **Languages**: Python, R, SQL, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
  - **Shell**: PowerShell, Bash
+ - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Advanced Excel, VBA, Tableau and Qlik
  - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Sci-kit Learn, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
  - **Technical Skills**: Data Collection, Data Wrangling/Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, Statistical Analysis, Deep Learning, Machine Learning, Regression, Classification, Clustering, Version Control (Git)
  
