@@ -73,7 +73,7 @@
 - Python 3 Programming, *Coursera – Certificate*, May 2019
 - Data Analysis Nanodegree, *Udacity – Certificate*, Jun 2021
 - Data Science Nanodegree, *Udacity – Certificate*, April 2022
-- AWS Machine Learning, *Udacity – Certificate*, Aug 2022
+- AWS Machine Learning, *Udacity – Certificate*, Aug 2021
 
 ### Download Resume [here](https://github.com/Abdishakury/Portfolio/blob/main/Abdishakur_Yoonis_Resume.pdf)
 
