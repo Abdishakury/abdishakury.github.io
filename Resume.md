@@ -10,7 +10,7 @@
  - **Languages**: Python, R, SQL, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
  - **Shell**: PowerShell, Bash
- - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL and Oracle SQL
+ - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
  - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Microsoft Dynamics CRM, Advanced Excel, VBA, Tableau and Qlik
  - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Pyspark, Sci-kit Learn, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
@@ -73,6 +73,8 @@
 - Data Engineering, *Datacamp – Certificate*, 2019
 - Machine Learning and Deep Learning, *Datacamp – Certificate*, 2019
 - Python 3 Programming, *Coursera – Certificate*, May 2019
+- Data Science - Specialisation at John Hopkins University, *Coursera – Certificate*, Sep 2019
+- Big Data - Specialisation at UC San Diego, *Coursera – Certificate*, Jan 2020
 - Data Analysis Nanodegree, *Udacity – Certificate*, Jun 2021
 - Data Science Nanodegree, *Udacity – Certificate*, April 2022
 - AWS Machine Learning, *Udacity – Certificate*, Aug 2021
