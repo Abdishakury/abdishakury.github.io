@@ -19,11 +19,23 @@
 
 ## DATA SCIENCE PROJECTS
 
-#### Disaster Response | [Project Link](https://github.com/Abdishakury/abdishakur-disaster-response)
+#### Sparkify Churn: Capstone Project | [Project Link](https://github.com/Abdishakury/abdishakur-disaster-response)
 ###### FEB 2022
 - Utilized frameworks such as NLTK and Scikit-Learn to perform ETL, build ML pipeline, and deploy ML model to a local web application. 
 - The ML pipeline processes 26,000 raw text messages using NLTK and Scikit-Learn to build a multioutput classification model. 
 - Maximized F1 score through feature engineering and parameter tuning.
+
+
+
+
+
+#### Disaster Response | [Project Link](https://github.com/Abdishakury/project_sparkify_capstone)
+###### FEB 2022
+- Loading and cleaning a small subset (128MB) of a full dataset available (12GB). 
+- Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn. 
+- Feature Engineering to create features that will be used in the modelling process.
+- Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
+
 
 #### Communicate Data Finding | [Project Link](https://github.com/Abdishakury/communicate-data-finding) 
 ###### May 2021
