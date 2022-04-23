@@ -19,25 +19,23 @@
 
 ## DATA SCIENCE PROJECTS
 
-#### Sparkify Churn: Capstone Project | [Project Link](https://github.com/Abdishakury/project_sparkify_capstone)
+#### Sparkify Churn: Capstone Project | [Project Link](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
 ###### Apr 2022
-- Utilized frameworks such as NLTK and Scikit-Learn to perform ETL, build ML pipeline, and deploy ML model to a local web application. 
-- The ML pipeline processes 26,000 raw text messages using NLTK and Scikit-Learn to build a multioutput classification model. 
-- Maximized F1 score through feature engineering and parameter tuning.
-
-
-
-
-
-#### Disaster Response | [Project Link](https://github.com/Abdishakury/abdishakur-disaster-response)
-###### Feb 2022
 - Loading and cleaning a small subset (128MB) of a full dataset available (12GB). 
 - Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn. 
 - Feature Engineering to create features that will be used in the modelling process.
 - Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
 
 
-#### Communicate Data Finding | [Project Link](https://github.com/Abdishakury/communicate-data-finding) 
+
+#### Disaster Response | [Project Link](https://abdishakur-disaster-response.herokuapp.com/)
+###### Feb 2022
+- Utilized frameworks such as NLTK and Scikit-Learn to perform ETL, build ML pipeline, and deploy ML model to a local web application. 
+- The ML pipeline processes 26,000 raw text messages using NLTK and Scikit-Learn to build a multioutput classification model. 
+- Maximized F1 score through feature engineering and parameter tuning.
+
+
+#### Communicate Data Finding | [Project Link](https://abdishakury.github.io/Communicate_Data_Finding) 
 ###### May 2021
 - I will investigate Ford GoBike System Dataset, assess its quality and tidiness, then clean it which called data wrangling
 - Ford GoBike System Dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
