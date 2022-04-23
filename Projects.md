@@ -5,11 +5,6 @@ title: All Projects
 
 Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building ***Extract, Transform, Load, (ETL)*** pipelines, ***Exploratory Data Analysis*** (EDA), and building and validating ***Machine Learning*** models.
 
-## [Predicting Price Seattle](https://abdishakury.github.io/Predicting-Price-Seattle)
-##### Feb 2020 – Mar 2020
-I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
-
-
 ## [Project Capstone Of Sparkify](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
 ##### Mar 2022 – Apr 2022
 In this project I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue.
@@ -24,6 +19,10 @@ The project involved:
 - Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn
 - Feature Engineering to create features that will be used in the modelling process
 - Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
+
+## [Predicting Price Seattle](https://abdishakury.github.io/Predicting-Price-Seattle)
+##### Feb 2020 – Mar 2020
+I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
  
 ## [Article Recommendations](https://abdishakury.github.io/Recommendations-IBM)
 ##### Apr 2022
