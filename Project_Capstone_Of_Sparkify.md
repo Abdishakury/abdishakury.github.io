@@ -421,21 +421,22 @@ I'd like to acknowledge Udacity for the project idea and workspace.
 # References
 <a class="anchor" id="refe"></a>
 
-[Link](https://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition/)    
-[Link](https://stackoverflow.com/questions/46921465/extract-substring-from-text-in-a-pandas-dataframe-as-new-column/)     
-[Link](https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/)     
-[Link](https://sparkbyexamples.com/pyspark/pyspark-when-otherwise/)     
-[Link](https://stackoverflow.com/questions/52943627/convert-a-pandas-dataframe-to-a-pyspark-dataframe/)     
-[Link](https://stackoverflow.com/questions/29600673/how-to-delete-columns-in-pyspark-dataframe/)      
-[Link](https://stackoverflow.com/questions/48738354/having-troubles-joining-3-dataframes-pyspark/)     
-[Link](https://stackoverflow.com/questions/59886143/spark-dataframe-how-to-keep-only-latest-record-for-each-group-based-on-id-and/)    
-[Link](https://stackoverflow.com/questions/46956026/how-to-convert-column-with-string-type-to-int-form-in-pyspark-data-frame/)    
-[Link](https://medium.com/swlh/logistic-regression-with-pyspark-60295d41221/)     
-[Link](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa/)    
-[Link](https://spark.apache.org/docs/latest/ml-classification-regression.html#logistic-regression/)         
-[Link](https://stackoverflow.com/questions/60772315/how-to-evaluate-a-classifier-with-apache-spark-2-4-5-and-pyspark-python/)    
-[Link](https://spark.apache.org/docs/2.2.0/ml-classification-regression.html/)    
-[Link](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)      
-[Link](https://stackoverflow.com/questions/32565829/simple-way-to-measure-cell-execution-time-in-ipython-notebook/)    
-[Link](https://www.silect.is/blog/random-forest-models-in-spark-ml/)     
-[Link](https://stackoverflow.com/questions/75440/how-do-i-get-the-string-with-name-of-a-class/)
+- https://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition     
+- https://stackoverflow.com/questions/46921465/extract-substring-from-text-in-a-pandas-dataframe-as-new-column     
+- https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/     
+- https://sparkbyexamples.com/pyspark/pyspark-when-otherwise/     
+- https://stackoverflow.com/questions/52943627/convert-a-pandas-dataframe-to-a-pyspark-dataframe     
+- https://stackoverflow.com/questions/29600673/how-to-delete-columns-in-pyspark-dataframe      
+- https://stackoverflow.com/questions/48738354/having-troubles-joining-3-dataframes-pyspark     
+- https://stackoverflow.com/questions/59886143/spark-dataframe-how-to-keep-only-latest-record-for-each-group-based-on-id-and    
+- https://stackoverflow.com/questions/46956026/how-to-convert-column-with-string-type-to-int-form-in-pyspark-data-frame    
+- https://medium.com/swlh/logistic-regression-with-pyspark-60295d41221     
+- https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa     
+- https://spark.apache.org/docs/latest/ml-classification-regression.html#logistic-regression     
+- https://stackoverflow.com/questions/60772315/how-to-evaluate-a-classifier-with-apache-spark-2-4-5-and-pyspark-python    
+- https://stackoverflow.com/questions/60772315/how-to-evaluate-a-classifier-with-apache-spark-2-4-5-and-pyspark-python    
+- https://spark.apache.org/docs/2.2.0/ml-classification-regression.html    
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html      
+- https://stackoverflow.com/questions/32565829/simple-way-to-measure-cell-execution-time-in-ipython-notebook     
+- https://www.silect.is/blog/random-forest-models-in-spark-ml/     
+- https://stackoverflow.com/questions/75440/how-do-i-get-the-string-with-name-of-a-class
