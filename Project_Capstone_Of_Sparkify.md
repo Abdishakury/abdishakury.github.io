@@ -421,9 +421,9 @@ This project could have been improved by:
 
 We started the project with a small dataset of just 128MB and 225 unique customers. After loading and cleaning our data we explored the dataset for useful features to predict churn and were able to build out the most promising features. We then preprocessed these and used the features with different machine learning algorithms. Random Forest performed the best, so we tuned the model and achieved an accuracy and F1 score of 0.88.
 
-## Github Page Blog Post 
+## Github Pages Blog Post 
 <a class="anchor" id="github"></a>
-The main findings of the code can be found at the Medium Blog post available [here](https://abdishakury.github.io/Project_Capstone_Of_Sparkify) explaining the technical details of my project.
+The main findings of the code can be found at the Github Data Science Portofolio available [here](https://github.com/Abdishakury/project_sparkify_capstone) explaining the technical details of my project.
 A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88. 
 
 ## Licensing, Authors, Acknowledgements, etc.
