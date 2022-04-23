@@ -53,24 +53,11 @@ Our mini-dataset file is `mini_sparkify_event_data.json`. First the dataset must
 We can now create a Spark Session.
 
 ### create a Spark session
-spark = SparkSession \
-        .builder \
-        .appName("Sparkify Project") \
-        .getOrCreate()
 
-spark.sparkContext.getConf().getAll()
+![Spark_Session](https://user-images.githubusercontent.com/83236722/164840374-5b563712-8fa7-428e-a753-b5ea159a9a31.png)
 
- [('spark.driver.host', 'YOONIS'),
- ('spark.rdd.compress', 'True'),
- ('spark.serializer.objectStreamReset', '100'),
- ('spark.driver.port', '20163'),
- ('spark.master', 'local[*]'),
- ('spark.submit.pyFiles', ''),
- ('spark.executor.id', 'driver'),
- ('spark.app.id', 'local-1650402062669'),
- ('spark.submit.deployMode', 'client'),
- ('spark.ui.showConsoleProgress', 'true'),
- ('spark.app.name', 'Sparkify Project')]
+
+![Spark_Context](https://user-images.githubusercontent.com/83236722/164840617-5cac2c88-a969-4a5d-8656-478403ab694c.png)
 
 ### load in the dataset
 df = spark.read.json("mini_sparkify_event_data.json")
