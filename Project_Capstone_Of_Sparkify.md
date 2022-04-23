@@ -421,7 +421,7 @@ I'd like to acknowledge Udacity for the project idea and workspace.
 # References
 <a class="anchor" id="refe"></a>
 
-- [https://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition]
+- https://stackoverflow.com/questions/21702342/creating-a-new-column-based-on-if-elif-else-condition
 - https://stackoverflow.com/questions/46921465/extract-substring-from-text-in-a-pandas-dataframe-as-new-column     
 - https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/     
 - https://sparkbyexamples.com/pyspark/pyspark-when-otherwise/     
