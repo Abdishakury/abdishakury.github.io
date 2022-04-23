@@ -7,9 +7,9 @@ Compilation of personal and online courses projects. This portfolio, as a whole,
 
 ## [Project Capstone Of Sparkify](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
 ##### Mar 2022 – Apr 2022
-In this project I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue.
+In this project, I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue.
 
-# Project Motivation
+### Project Motivation
 
 For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify.
 
