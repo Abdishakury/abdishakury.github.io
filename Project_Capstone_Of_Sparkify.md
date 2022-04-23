@@ -108,13 +108,13 @@ A column `Churn` will be created to use as the label for our model. `Cancellatio
 Exploratory data analysis will  be performed to observe the behavior for users who stayed vs users who churned. Starting by exploring aggregates on these two groups of users, observing how much of a specific action they experienced per a certain time unit or number of songs played.
 
 
-### EDA for Users that Stayed vs Users that Churned
+#### EDA for Users that Stayed vs Users that Churned
 Now we can examine behaviour of those who churned vs those who did not churn. First we will visualise those who churned vs those who stayed.
 
-### convert to pandas for visualisation
+#### convert to pandas for visualisation
 df_churn = df_churn.toPandas()
 
-### plot the number of users that churned
+#### plot the number of users that churned
 plt.figure(figsize = [8,6])
 ax = sns.barplot(data = df_churn, x = 'churn', y='count')
 plt.title("Numbers of Users That Churned");
@@ -129,7 +129,7 @@ Now we can do the same process for customers who didn't churn.
 
 We can see from the above plots that length distribution is very similar for users that churned and those who stayed. This won't be very useful for predicting customer churn. Let's try a categorical feature: gender.
 
-### I want to convert to pandas for visualisation
+#### I want to convert to pandas for visualisation
 
 ![hist_curn2](https://user-images.githubusercontent.com/83236722/164799522-ff7de338-d763-4b96-8575-8f06dd002f78.png)
 
@@ -153,7 +153,7 @@ From the above chart, we can see that the most popular action for both users tha
 ![df_page3](https://user-images.githubusercontent.com/83236722/164800945-0a47ad6c-b1f7-41ed-9add-db014bb77552.png)
 
 
-### Calculating Songs per Hour
+#### Calculating Songs per Hour
 We can now turn our attention to calculating the number of songs listened to by churn and non churn users per hour. 
 
 ![songs_in_hour](https://user-images.githubusercontent.com/83236722/164801157-31c9588f-bc1b-4987-aeb6-41db8faa9315.png)
@@ -163,7 +163,7 @@ We can now turn our attention to calculating the number of songs listened to by 
 
 From above we can see that there is a peak of songs played between 3pm and 8pm. Next we will examine users who churned by using the same process.
 
-### Songs Per Session for Users who Churned vs. Those who Stayed
+#### Songs Per Session for Users who Churned vs. Those who Stayed
 We can plot this in a simple way which will allow us to compare those who churned and those who stayed in a bar chart by getting the averages for both groups.
 
 
@@ -173,7 +173,7 @@ We can plot this in a simple way which will allow us to compare those who churne
 ![average_songs_table2](https://user-images.githubusercontent.com/83236722/164801361-b2c96b64-a01b-41b9-9a40-392e0ea4e7de.png)
 
 
-### UserAgent: Operating System and Browsers
+#### UserAgent: Operating System and Browsers
 Now we can extract the Operating System a user is on to understand if this has an effect on churn.
 
 ![location_count](https://user-images.githubusercontent.com/83236722/164803574-18f7aad2-f59e-4ede-a769-f503ddf59b93.png)
@@ -199,7 +199,7 @@ Windows was the most used. Linux users have the highest rate of churn. It is ver
 Chrome was the most popular browser. Firefox users were most likely to churn. Internet Explorer had the fewest number of users that churned. There is no clear issue with browsers which is making users churn. Therefore this won't be used in our model.
 
 
-### Days Since Registration for Sparkify
+#### Days Since Registration for Sparkify
 Finally, we can look at the number of days since a user had registered.
 
 ![df_days](https://user-images.githubusercontent.com/83236722/164814825-1cefa7e4-8a8f-4845-b7c8-411aad49d9f5.png)
@@ -213,7 +213,7 @@ Now I need to minus these and work that out in days by minus the registration fr
 ![df_days3](https://user-images.githubusercontent.com/83236722/164814962-8a4a8c22-8ddf-4869-8306-766e73952c22.png)
 
 
-### I use to Pandas for the plot boxplot
+#### I use to Pandas for the plot boxplot
 
 ![boxplot](https://user-images.githubusercontent.com/83236722/164815018-c2ddeee5-2a58-494d-acc2-e98800b4f916.png)
 
@@ -224,8 +224,8 @@ Now that EDA has been performed, we can build out the features that seem most pr
 
 The features we will build out are:
 - Categorical:
- - gender
- - level
+  - gender
+  - level
 
 - Numerical:
  - number of songs per session
@@ -242,7 +242,7 @@ We will also then add a churn label and join these all together. This will creat
 First we will take our categorical variables and convert these into numeric variables, ready for our model.
 
 
-### Gender
+#### Gender
 
 Our first feature is gender which is a categorical one. We will assign a 1 for 'female' and a 0 for 'male'.
 
@@ -253,7 +253,7 @@ Our first feature is gender which is a categorical one. We will assign a 1 for '
 ![userId_level](https://user-images.githubusercontent.com/83236722/164816248-be7c2288-857f-4082-bc43-8c592413d1d1.png)
 
 
-### Average Number of songs per session
+#### Average Number of songs per session
 Our third feature is average number of songs per session for each user.
 
 ![userId_level2](https://user-images.githubusercontent.com/83236722/164816273-379bab7f-a16c-4485-a360-830c92ee5285.png)
@@ -262,38 +262,38 @@ Our third feature is average number of songs per session for each user.
 ![userId_level3](https://user-images.githubusercontent.com/83236722/164816306-82295a69-9281-427d-8f5b-bd03ff38e374.png)
 
 
-### Number of rollads actions
+#### Number of rollads actions
 Next feature we can consider is number of roll advert actions. This had a higher number of roll ad count for those who churned since those who use the app for free are shown ads whereas paid subscribers aren't shown ads.
 
 ![userId_level4](https://user-images.githubusercontent.com/83236722/164816328-9ae119a3-69f2-432b-9c74-f39d68c7b5b4.png)
 
-### Number of thumb down actions
+#### Number of thumb down actions
 The fifth feature we can add to our feature dataframe is thumbs down. Users who had churned in the past had performed more thumbs down actions than those who stayed with the service. 
 
 ![userId_level5](https://user-images.githubusercontent.com/83236722/164816366-ac1e8b5a-5d59-4881-a925-a8cdb30f70bd.png)
 
-### Number of thumbs up actions
+#### Number of thumbs up actions
 We can do the same for thumb up actions. Users who stayed with the service had performed more thumbs up actions in the past.
 
 ![userId_level6](https://user-images.githubusercontent.com/83236722/164816407-b95b1015-9100-4108-a5d1-cf77bb7d8fe0.png)
 
-### Number of friends added
+#### Number of friends added
 Similarly, number of friends added can indicate if a user is likely to churn or not. In the past, those who added more friends stayed with the app.
 
 ![userId_level7](https://user-images.githubusercontent.com/83236722/164816444-e229ad6e-53ac-4071-8364-a44856e95a7e.png)
 
-### Number of songs added to playlist
+#### Number of songs added to playlist
 Again, those who added more songs to their playlists had stayed with the service so this can provide an indication of whether a user is likely to churn.
 
 ![userId_level8](https://user-images.githubusercontent.com/83236722/164816481-fa135e8b-207d-4b8b-99a7-c1775b5a131a.png)
 
-### Number of different Artists Listened to on Sparkify
+#### Number of different Artists Listened to on Sparkify
 As we discovered in EDA, users that listened to more diverse artists were less likely to churn.
 
 ![userId_level9](https://user-images.githubusercontent.com/83236722/164816512-00ae573f-4473-4910-b558-a7ddb02fc73a.png)
 
 
-### Number of Days Since Registering
+#### Number of Days Since Registering
 Number of days since registering also looked useful from our EDA. We saw that users who had a shorter number of days since registering churned more than those who had used the service for a longer time.
 
 ![df_feature](https://user-images.githubusercontent.com/83236722/164816540-9522832b-2991-444c-aa74-178ea53831bc.png)
@@ -307,13 +307,13 @@ Now we have a dataframe with all the features we can into our model where each r
 
 ![df_feature4](https://user-images.githubusercontent.com/83236722/164816562-ea1ce5ba-e512-46ee-b2cd-93ee5abd69af.png)
 
-### Standardisation
+#### Standardisation
 Now that we have our vectors we can standardise our values. This is important for our machine learning model so that those features with the highest values don't dominate the results and so that we can make the individual features look like standard normally distributed data.
 
 ![df_feature5](https://user-images.githubusercontent.com/83236722/164816575-d4a4416a-49f0-4011-96b0-8dddad7a3188.png)
 
 
-### Train / Test / Validation Split
+#### Train / Test / Validation Split
 Let's check how many records we have in total is 225 as it should be.
 
 ![df_feature6](https://user-images.githubusercontent.com/83236722/164816590-1dfc0035-7571-404b-85cd-95de628e6ed4.png)
@@ -327,6 +327,7 @@ This count is what we would expect, now we can split our data into train, test a
 <a class="anchor" id="model"></a>
 
 Now we have created our features dataFrame with only numeric variables, we can split the full dataset into train, test, and validation sets. We will test out different machine learning classification algorithms including:
+
  - Logistic Regression
  - Random Forest Classifier
  - Gradient-Boosted Tree Classifier
@@ -350,6 +351,7 @@ The models I have selected are below with the reasons why these have been chosen
 
 ### Training the Models & Evaluating the Model Performance
 Steps:
+
  - Instantiate 
  - Fit Models on Train
  - Predicting
@@ -363,14 +365,14 @@ Steps:
 
 Now that we have our results we can choose our best model. Random Forest and Gradient Boosted Trees performed well but random forest was faster so I will choose this one to tune.
 
-## Model Tuning for Best Models:
+### Model Tuning for Best Models:
 Now we can tune our model using paramGridbuilder and CrossValidator. I am going to select Random Forest since this is the best compromise for F1 score, accuracy, and time to run. Random Forrest had a F1 score of 0.87 and accuracy of 0.88 and took 2 min 57s compared to GTB which achieved a similar score of 0.88 for both F1 score and accuracy but took 3 min 51s. 
 
 ### Random Forest
 
 ![df_feature11](https://user-images.githubusercontent.com/83236722/164816751-6f1f89ac-6c64-4301-8d51-d76453c4a14c.png)
 
-## Parameters
+### Parameters
 
 I will select numTrees and maxDepth for our RF model tuning. 
 - **NumTrees**: I have chosen to go up to 100 trees to improve performance. Since these trees are individual randomised models in an ensemble there is not a great risk of overfitting with this numTrees parameter.
@@ -420,7 +422,7 @@ We started the project with a small dataset of just 128MB and 225 unique custome
 
 ## Github Page Blog Post 
 <a class="anchor" id="github"></a>
-The main findings of the code can be found at the Medium Blog post available [here]() explaining the technical details of my project.
+The main findings of the code can be found at the Medium Blog post available [here](https://abdishakury.github.io/Project_Capstone_Of_Sparkify) explaining the technical details of my project.
 A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88. 
 
 ## Licensing, Authors, Acknowledgements, etc.
