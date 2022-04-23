@@ -11,11 +11,11 @@
 * [Business Impact](#bus)
 * [Project Reflection](#refl)
 * [Future Work](#fut)
-* [Conclusions](#con)
 * [Github Page Blog Post](#github)
 * [Licensing, Authors, Acknowledgements](#lic)
+* [Conclusions](#con)
 * [References](#refe)
-* 
+
 
 ## Introduction
 <a class="anchor" id="int"></a>
