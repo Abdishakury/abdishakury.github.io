@@ -5,18 +5,26 @@ title: All Projects
 
 Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building ***Extract, Transform, Load, (ETL)*** pipelines, ***Exploratory Data Analysis*** (EDA), and building and validating ***Machine Learning*** models.
 
-
 ## [Predicting Price Seattle](https://abdishakury.github.io/Predicting-Price-Seattle)
 ##### Feb 2020 – Mar 2020
-I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are: 
-
-# Pricing Trends
-
-1. What is the peak season in Seattle and how does pricing change with the seasons?
-2. How does pricing differ by neighbourhood, and which Seattle neighbourhoods are the most expensive?
-3. What effect does the kind of property in an area have on the price of the most costly neighbourhoods and the most prevalent property types? 
+I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
 
 
+## [Project Capstone Of Sparkify](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
+##### Mar 2022 – Apr 2022
+In this project I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue.
+
+# Project Motivation
+
+For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify.
+
+The project involved:
+
+- Loading and cleaning a small subset (128MB) of a full dataset available (12GB) 
+- Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn
+- Feature Engineering to create features that will be used in the modelling process
+- Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
+ 
 ## [Article Recommendations](https://abdishakury.github.io/Recommendations-IBM)
 ##### Apr 2022
 This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions with articles. Based on the data available, we can use various methods to make these recommendations. The methods used here are **Rank Based**, **Collaborative Filtering**, and **Matrix Factorization**.
