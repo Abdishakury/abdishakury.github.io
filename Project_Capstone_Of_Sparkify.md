@@ -54,12 +54,13 @@ We can now create a Spark Session.
 
 ### create a Spark session
 spark = SparkSession \
-    .builder \
-    .appName("Sparkify Project") \
-    .getOrCreate()
+        .builder \
+        .appName("Sparkify Project") \
+        .getOrCreate()
 
 spark.sparkContext.getConf().getAll()
-[('spark.driver.host', 'YOONIS'),
+
+ [('spark.driver.host', 'YOONIS'),
  ('spark.rdd.compress', 'True'),
  ('spark.serializer.objectStreamReset', '100'),
  ('spark.driver.port', '20163'),
