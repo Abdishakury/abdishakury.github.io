@@ -29,7 +29,7 @@
 
 
 
-#### Disaster Response | [Project Link](hhttps://github.com/Abdishakury/abdishakur-disaster-response)
+#### Disaster Response | [Project Link](https://github.com/Abdishakury/abdishakur-disaster-response)
 ###### Feb 2022
 - Loading and cleaning a small subset (128MB) of a full dataset available (12GB). 
 - Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn. 
