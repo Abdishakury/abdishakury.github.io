@@ -223,11 +223,12 @@ Now I need to minus these and work that out in days by minus the registration fr
 Now that EDA has been performed, we can build out the features that seem most promising to train our model on.
 
 The features we will build out are:
-- Categorical:
+
+Categorical:
   - gender
   - level
 
-- Numerical:
+Numerical:
  - number of songs per session
  - number of rollads actions
  - number of thumb down actions
