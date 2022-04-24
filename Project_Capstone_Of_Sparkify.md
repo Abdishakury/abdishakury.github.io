@@ -411,7 +411,7 @@ We started the project with a small dataset of just 128MB and 225 unique custome
 
 ## Github Pages Blog Post 
 <a class="anchor" id="github"></a>
-The main findings of the code can be found at the Github Data Science Portofolio available [here](https://abdishakury.github.io/Project_Capstone_Of_Sparkify) explaining the technical details of my project.
+The main findings of the code can be found at the Github Data Science Portofolio available [here](https://abdishakury.github.io/) explaining the technical details of my project.
 A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88. 
 
 ## Licensing, Authors, Acknowledgements, etc.
