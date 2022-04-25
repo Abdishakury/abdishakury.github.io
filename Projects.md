@@ -9,7 +9,7 @@ Compilation of personal and online courses projects. This portfolio, as a whole,
 ##### Mar 2022 – Apr 2022
 In this project, I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue. 
 
-We will implement and test out different machine learning algorithms and The methods used here are:
+We will implement and test out different machine learning algorithms and the best methods have been used, here are:
 
 - Logistic Regression
 - Random Forest Classifier
