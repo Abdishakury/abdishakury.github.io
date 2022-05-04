@@ -38,7 +38,7 @@ I was curious to look into the AirBnB dataset for Seattle. I needed to discover 
 This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions with articles. Based on the data available, we can use various methods to make these recommendations. The methods used here are **Rank Based**, **Collaborative Filtering**, and **Matrix Factorization**.
 
 
-## [Disaster Response Pipeline](https://github.com/Abdishakury/abdishakur-disaster-response) | [Web-App](https://abdishakur-disaster-response.herokuapp.com/)
+## [Disaster Response Pipeline](https://abdishakury.github.io/Disaster_Response_Pipeline) | [Web-App](https://abdishakur-disaster-response.herokuapp.com/)
 ##### Feb 2022
  - Utilized frameworks such as **NLTK** and **Scikit-Learn** to perform ETL, build ML pipeline, and deploy ML model to a local web application.
  - The ML pipeline processes 26,000 raw text messages using NLTK and Scikit-Learn to build a multioutput classification model.
