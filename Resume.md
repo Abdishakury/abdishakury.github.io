@@ -9,9 +9,11 @@
  
  - **Languages**: Python, R, SQL, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
+ - **Programming Language**: Java, C# and C++
  - **Shell**: PowerShell, Bash
  - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
+ - **Cloud Computing**: AWS and AZURE
  - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Microsoft Dynamics CRM, Advanced Excel, VBA, Tableau and Qlik
  - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Pyspark, Sci-kit Learn, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
  - **Technical Skills**: Data Collection, Data Wrangling/Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, Statistical Analysis, Deep Learning, Machine Learning, Regression, Classification, Clustering, Version Control (Git)
