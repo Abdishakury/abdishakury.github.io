@@ -15,7 +15,7 @@
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
  - **Cloud Computing**: AWS and AZURE
  - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Microsoft Dynamics CRM, Advanced Excel, VBA, Tableau and Qlik
- - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Pyspark, Sci-kit Learn, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
+ - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Pyspark, Sci-kit Learn, Tensorflow, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
  - **Technical Skills**: Data Collection, Data Wrangling/Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, Statistical Analysis, Deep Learning, Machine Learning, Regression, Classification, Clustering, Version Control (Git)
  
 
