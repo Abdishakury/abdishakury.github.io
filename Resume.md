@@ -7,9 +7,8 @@
  
 ## SKILLS
  
- - **Languages**: Python, R, SQL, HTML, CSS, JavaScript and many more
+ - **Programming Languages**: Python, R, SQL, Java, C#, C++, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
- - **Programming Language**: Java, C# and C++
  - **Shell**: PowerShell, Bash
  - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
