@@ -10,7 +10,7 @@
  - **Programming Languages**: Python, R, SQL, Java, C#, C++, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
  - **Shell**: PowerShell, Bash
- - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
+ - **Databases**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
  - **Cloud Computing**: AWS and AZURE
  - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Microsoft Dynamics CRM, Advanced Excel, VBA, Tableau and Qlik
