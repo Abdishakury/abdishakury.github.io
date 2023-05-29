@@ -56,7 +56,7 @@
 - Identify factors that predict which employees will have the best performance and which will benefit from a change in their job position using machine learning.
 - Designed the information architecture and model of an organization's assets.
 - Coordinated with the stakeholders on project progress.
-- Involved in the continuous enhancements and finding the best solution
+- Involved in the continuous enhancements and finding the best solution.
 
    
 ## EDUCATION
