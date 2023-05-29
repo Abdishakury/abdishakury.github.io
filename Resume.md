@@ -50,30 +50,18 @@
 - User with Age between 25 and 35 are making top of number of trips
 
 ## EXPERIENCE
-#### Robotics Amnesty Responder, *AMAZON UK, Swindon, UK*
-###### JUN 2021 – Permanent 
-- Managing Amazon Robotics floor operations clearing the floor of obstructions, rebooting drives, resetting and clearing jams.
-- Organising misplaced products and add back products that meet quality standards
-- Responding to various errors from area associates such as verifying missing items and retrieving fallen products from
-  the robotics floor.
-- Maintain Amazon Robotics drives and bins by clearing crashes, clearing objects underneath drives
-- Reporting heavy situations to Facilities Operational Managers
+#### Data Scientist/Data Analyst, *MSI Homes Group, Bristol, UK*
+###### OCT 2019 – Permanent 
+- To predict house prices using time series analysis and neural networks.
+- Identify factors that predict which employees will have the best performance and which will benefit from a change in their job position using machine learning.
+- Designed the information architecture and model of an organization's assets.
+- Coordinated with the stakeholders on project progress.
+- Involved in the continuous enhancements and finding the best solution
 
-#### Data Scientist, Data Analyst and Software Engineer, *Homes4all, Bristol, UK*
-###### SEP 2016 – SEP 2019 Previous 
-- Managing master data, including creation, updates, deletion and helping develop reports and Data analysis.
--	Managing and designing the reporting environment, including data sources, security, and metadata.
--	Data Mining and Modeling: Collected, cleansed and provided modeling and analyses of structured and unstructured data used for major business initiatives.
--	Providing technical expertise on data storage structures, data mining, and data cleansing and supporting initiatives
-  for data integrity and normalization as well as troubleshooting the reporting database environment and reports using
-  Advanced excel, VBA, Python, R, Power BI, Tableau and Advanced SQL server with Data Analytics, Data Processing and Data Visualisation and interprets data and turns 
-  it into information which can offer ways to improve a business, thus affecting business decisions as well as gather information from various sources and interpret       patterns and trends.I worked with large data sets and using business analytic methods, statistical models and data analysis technical skills turn data 
-  into business insight.
    
 ## EDUCATION
-- MSc Data Science/Analytics, *Brunel University*, Nov 2021
-- MSc Software Engineering, *Kingston University*, Dec 2016
-- BSc Software Engineering, *London Metropolitan University*, Jul 2014
+- MSc Software Engineering, *Kingston University*, Oct 2017
+- BSc Software Engineering, *London Metropolitan University*, Jul 2017
 - Microsoft Certified Software Developer, *Microsoft UK – Certificate*, Feb 2014
 - Exploratory Data Analysis in Excel, *LinkedIn Learning – Certificate*, 2018
 - Exploratory Data Analysis in SQL, *Datacamp – Certificate*, 2019
