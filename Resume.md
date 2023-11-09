@@ -83,6 +83,7 @@
 - Introduction To Power BI, *Datacamp – Certificate*, 2022
 - Introduction To DAX in Power BI, *Datacamp – Certificate*, 2022
 - Data Visualization In Power BI, *Datacamp – Certificate*, 2022
+- Data Analyst Diploma, *Pitman Training – Certificate*, 2023
 
 ### Download Resume [here](https://github.com/Abdishakury/Portfolio/blob/main/Abdishakur_Yoonis_Resume.pdf)
 
