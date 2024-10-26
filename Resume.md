@@ -51,7 +51,7 @@
 
 ## EXPERIENCE
 
-#### Ground Operations Agent, *MBritish Airways, Heathrow Airport – T5, UK*
+#### Ground Operations Agent, *British Airways, Heathrow Airport – T5, UK*
 ###### JUNE 2024 – Present
 - Physical fitness to handle manual tasks, including lifting items up to 32kg
 - Preparing aircraft for arrival, departure, and turnaround activities
