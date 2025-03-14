@@ -1,7 +1,7 @@
 # Abdishakur Yoonis
 
 ##### Abdishakur.Yoonis@ba.com | 447306445649
-##### Slough, Berkshire, UK
+##### Bristol, Bristol, UK
 ##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/Abdishakury) | [Portfolio](https://abdishakury.github.io/)
  
  
