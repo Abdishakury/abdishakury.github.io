@@ -5,7 +5,7 @@ title: All Projects
 
 Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building ***Extract, Transform, Load, (ETL)*** pipelines, ***Exploratory Data Analysis*** (EDA), and building and validating ***Machine Learning*** models.
 
-## [Project Capstone Of Sparkify](https://abdishakury.github.io/Revenue_Performance_Analysis)
+## [Revenue Performance Analysis](https://abdishakury.github.io/Revenue_Performance_Analysis)
 ##### Dec 2023 – Jan 2024
 In this project of the Power BI dashboard provides a comprehensive analysis of a business’s aggregated values over time, across regions, and by product type. Its interactive features allow stakeholders to explore trends in revenue, costs, and profit margins.
 This dashboard consolidates essential business metrics into one easy-to-use tool, offering multiple ways to view and compare financial data for smarter decision-making.
