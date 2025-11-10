@@ -33,8 +33,8 @@ This dashboard integrates multiple datasets to offer a comprehensive and dynamic
 
 #### Datasets Integrated into Power BI
 
-| Dataset               | Description                                                                  |
-| --------------------- | ---------------------------------------------------------------------------- |
+| Dataset               | Description                                                                      |
+| --------------------------|------------------------------------------------------------------------------|
 | **Sales**                 | Contains transactional data, including revenue, units sold, and profit       |
 | **Promotions**            | Includes promotion details, such as discount types and their impact on sales |
 | **Geography**             | Provides regional and country-level location data                            |
