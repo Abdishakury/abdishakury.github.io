@@ -1,6 +1,5 @@
 # Revenue Performance Analysis
 
-
 ### 1. Introduction
 This Power BI dashboard provides a comprehensive analysis of a business’s aggregated values over time, across regions, and by product type. Its interactive features allow stakeholders to explore trends in revenue, costs, and profit margins. 
 
@@ -18,6 +17,7 @@ This dashboard consolidates essential business metrics into one easy-to-use tool
 
 **How to use this dashboard for decision making:**
 This Power BI dashboard enables decision-makers to make well-informed business choices by offering an interactive and comprehensive view of key financial metrics.
+
  - Track Performance Trends: Use the Monthly Time Series (Column Chart) to monitor costs, profits, and revenue on a monthly basis. Identify seasonality, growth opportunities, or     unexpected dips. Changing the year filter lets you compare these patterns across different periods.
  - Assess Regional Performance: Use the Regional Comparison (Horizontal Bar Chart) to highlight which continents are over- or under-performing. Focus on specific regions to          allocate resources or adjust strategies and boost profitability where it’s needed most.
  - Analyze Product Mix: Use the Product Category Breakdown (Pie Chart) and Subcategory Detail (Treemap) to pinpoint top-performing and lagging categories. Determine which product    lines deserve more investment or a marketing push.
