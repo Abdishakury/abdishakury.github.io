@@ -15,7 +15,7 @@ This dashboard consolidates essential business metrics into one easy-to-use tool
 - Evaluate Product Categories (Pie Chart): Shows the share of each product category, assisting in identifying areas of strength or concern in the product portfolio.
 - Drill Down into Subcategories (Treemap): Reveals which subcategories contribute most within each product category, supporting more granular analysis and strategy refinement.
 
-**How to use this dashboard for decision making:**
+##**How to use this dashboard for decision making:**
 This Power BI dashboard enables decision-makers to make well-informed business choices by offering an interactive and comprehensive view of key financial metrics.
 
  - Track Performance Trends: Use the Monthly Time Series (Column Chart) to monitor costs, profits, and revenue on a monthly basis. Identify seasonality, growth opportunities, or     unexpected dips. Changing the year filter lets you compare these patterns across different periods.
