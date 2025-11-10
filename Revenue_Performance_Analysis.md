@@ -33,16 +33,16 @@ This dashboard integrates multiple datasets to offer a comprehensive and dynamic
 
 #### Datasets Integrated into Power BI
 
-| Dataset               | Description                                                                      |
-| --------------------------|------------------------------------------------------------------------------|
-| **Sales**                 | Contains transactional data, including revenue, units sold, and profit       |
-| **Promotions**            | Includes promotion details, such as discount types and their impact on sales |
-| **Geography**             | Provides regional and country-level location data                            |
-| **Stores**                | Includes store-level information, such as name, location, and type           |
-| **Products**              | Contains details about product names, IDs, and categories                    |
-| **Product Categories**    | Defines the broader categories of products                                   |
-| **Product Subcategories** | Provides more detailed segmentation of products                              |
-| **Calendar**              | Enables time-based analysis through a complete date table                    |
+| Dataset                        | Description                                                                  |
+| -------------------------------|------------------------------------------------------------------------------|
+| **Sales**                      | Contains transactional data, including revenue, units sold, and profit       |
+| **Promotions**                 | Includes promotion details, such as discount types and their impact on sales |
+| **Geography**                  | Provides regional and country-level location data                            |
+| **Stores**                     | Includes store-level information, such as name, location, and type           |
+| **Products**                   | Contains details about product names, IDs, and categories                    |
+| **Product Categories**         | Defines the broader categories of products                                   |
+| **Product Subcategories**      | Provides more detailed segmentation of products                              |
+| **Calendar**                   | Enables time-based analysis through a complete date table                    |
 
 #### Key Measures Calculated
 * **Revenue:** Total sales revenue, calculated from the transactional data.
