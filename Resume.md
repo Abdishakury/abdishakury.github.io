@@ -70,8 +70,8 @@
 
    
 ## EDUCATION
-- MSc Software Engineering, *Kingston University*, Oct 2018
-- BSc Software Engineering, *London Metropolitan University*, Jul 2017
+- MSc Software Engineering, *Kingston University*, Oct 2022
+- BSc Software Engineering, *London Metropolitan University*, Jul 2021
 - Microsoft Certified Software Developer, *Microsoft UK – Certificate*, Feb 2014
 - Exploratory Data Analysis in Excel, *LinkedIn Learning – Certificate*, 2018
 - Exploratory Data Analysis in SQL, *Datacamp – Certificate*, 2019
