@@ -10,6 +10,11 @@ Compilation of personal and online courses projects. This portfolio, as a whole,
 In this project of the Power BI dashboard provides a comprehensive analysis of a business’s aggregated values over time, across regions, and by product type. Its interactive features allow stakeholders to explore trends in revenue, costs, and profit margins.
 This dashboard consolidates essential business metrics into one easy-to-use tool, offering multiple ways to view and compare financial data for smarter decision-making.
 
+## [Airline Data Analysis](https://abdishakury.github.io/Airline_Data_Analysis)
+##### Feb 2024 – Mar 2024
+In this project of the Airline have been seen the high numbers of Dissatisfied Passengers. Satisfaction of Passengers are one of the concern of the airline. We are one of those airlines who focuses on both Business Travellers and Personal Travellers and our 
+majority of the customers are Loyal Customers. 
+
 ## [Project Capstone Of Sparkify](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
 ##### Mar 2022 – Apr 2022
 In this project, I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue. 
