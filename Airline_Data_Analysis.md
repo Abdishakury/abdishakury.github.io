@@ -1,6 +1,4 @@
 # Airline Data Analysis
- - Portfolio [Link](https://github.com/Abdishakury/Portfolio)
- - [Jupyter Notebook](https://github.com/Abdishakury/Airline_data_analysis/blob/master/Arline_Data_Analysis.ipynb)
 
 <img width="1250" height="699" alt="image" src="https://github.com/user-attachments/assets/c6d74301-b600-413e-8566-2d3665631654" />
 
