@@ -5,7 +5,16 @@
 ##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/Abdishakury) | [Portfolio](https://abdishakury.github.io/)
  
  
-## SKILLS
+## CYBERSECURITY, DATA SCIENCE, DATA ANALYSIS AND DATA ENGINEERINGS' SKILLS
+- **Security Operations**: SIEM, SOAR, XDR, Incident Response, Threat Detection, Log Analysis 
+- **Network Security**: Network Security, Firewall Configuration, AWS VPC, Azure Virtual Network, Security Groups, Network ACLs
+ - **Vulnerability & Penetration Testing**: Vulnerability Assessment, Penetration Testing, Nmap, Nessus, OpenVAS, Burp Suite, Metasploit
+ - **Digital Forensics**: FTK Imager, KAPE, Volatility, Autopsy, ExifTool, Wireshark, VirusTotal - **Cloud Security**: AWS, Azure
+ - **GRC & Security Frameworks**: Risk Assessment & Mitigation, NIST, ISO/IEC 27001, CIS Controls, MITRE ATT&CK, OWASP Top 10, PCI DSS
+ - **Security & Resilience**: Cryptography, Encryption, Security Policy Development, Disaster Recovery
+ - **Scripting & Systems**: Python, PowerShell, Bash, SQL, Windows, Linux, Git
+ - **Cybersecurity Frameworks**: OWASP Top 10, NIST, ISO/IEC27001, CIS Critical Security Controls, COBIT, HIPAA, PCI DSS, CIS Controls, MITRE ATT&CK Framework, Zero Trust Security Model, GRC, CS-VRM
+
  
  - **Programming Languages**: Python, R, SQL, Java, C#, C++, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
