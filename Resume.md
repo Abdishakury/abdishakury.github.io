@@ -14,8 +14,6 @@
  - **Security & Resilience**: Cryptography, Encryption, Security Policy Development, Disaster Recovery
  - **Scripting & Systems**: Python, PowerShell, Bash, SQL, Windows, Linux, Git
  - **Cybersecurity Frameworks**: OWASP Top 10, NIST, ISO/IEC27001, CIS Critical Security Controls, COBIT, HIPAA, PCI DSS, CIS Controls, MITRE ATT&CK Framework, Zero Trust Security Model, GRC, CS-VRM
-
- 
  - **Programming Languages**: Python, R, SQL, Java, C#, C++, HTML, CSS, JavaScript and many more
  - **OS**: Windows, Linux (Ubuntu 18.04)
  - **Shell**: PowerShell, Bash
